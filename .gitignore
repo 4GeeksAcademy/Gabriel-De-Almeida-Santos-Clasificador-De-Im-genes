@@ -2,3 +2,8 @@ __pycache__
 .env
 .learn
 data/
+dataset/
+dogs-vs-cats/
+*.jpg
+*.jpeg
+*.png
